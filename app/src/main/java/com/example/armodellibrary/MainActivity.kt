@@ -10,6 +10,7 @@ import com.example.ar_model_library.ArSdk
 class MainActivity : AppCompatActivity() {
     val arSdk = ArSdk()
 
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
