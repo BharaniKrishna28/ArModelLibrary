@@ -38,7 +38,7 @@ android {
 dependencies {
 //    implementation(project(":ar-model-library"))
     implementation("com.gorisse.thomas.sceneform:sceneform:1.23.0")
-    implementation ("com.github.BharaniKrishna28:ArModelLibrary:1.0")
+//    implementation ("com.github.BharaniKrishna28:ArModelLibrary:1.0")
 
 
 
